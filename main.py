@@ -51,4 +51,4 @@ async def help(ctx):
     await ctx.send(f'Привет! команда такая - делает эта, а команда такая - делает это. Пользуйся)
 
 
-bot.run("MTEyNzQ4NzY2NjMyMjE1MzQ3Mg.GFRaC8.WjDzIcS97t0IwNk4fny558VypG7BBBCQthhhe4")
+bot.run("")
