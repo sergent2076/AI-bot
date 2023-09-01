@@ -1,0 +1,6 @@
+0 not real cat
+1 real cat
+2 not real diamond
+3 real diamond
+4 not real car
+5 real car
